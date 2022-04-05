@@ -38,10 +38,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-* [Start/Stop and Colored Buttons GIF](https://recordit.co/jfoKXGKtjv)
-* [Losing the Game (Timer) GIF](https://recordit.co/1Cftak9n8q)
-* [Losing the Game (Mistakes) GIF](https://recordit.co/Y75Ep7xirs)
-* [Winning the Game GIF](https://recordit.co/sW4JUTC0E4)
+![](gifs/buttons.gif)
+![](gifs/Lose(time).gif)
+![](gifs/Lose(mistake).gif)
+![](gifs/Win.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
