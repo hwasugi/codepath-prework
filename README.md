@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](gifs/buttons.gif)
-![](gifs/Lose(time).gif)
+![](gifs/Lose(timer).gif)
 ![](gifs/Lose(mistake).gif)
 ![](gifs/Win.gif)
 
